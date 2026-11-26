@@ -4,8 +4,8 @@ description: "学习并用 Codex 动手练习 AI 编码智能体，面向刚开�
 compatibility: "需要一台可联网的电脑、可用的终端、Git 和 Node.js（示例项目用 Node 内置测试模块）。不要求有 AI 编码智能体或智能体的使用经验。"
 license: MIT
 metadata:
-  author: "你的名字"
-  url: "https://github.com/you/codex-basics"
+  author: "maceaykk"
+  url: "https://github.com/maceaykk/codex-basics"
 ---
 
 # Codex 基础：学习与练习
